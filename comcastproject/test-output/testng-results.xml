@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="114" started-at="2021-03-11T10:25:24Z" finished-at="2021-03-11T10:25:24Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="114" started-at="2021-03-11T10:25:24Z" finished-at="2021-03-11T10:25:24Z">
+      <class name="com.comcast.contactlist.CreateContactTest">
+        <test-method status="PASS" signature="Createcontact()[pri:0, instance:com.comcast.contactlist.CreateContactTest@28d25987]" name="Createcontact" duration-ms="25" started-at="2021-03-11T10:25:24Z" finished-at="2021-03-11T10:25:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Createcontact -->
+        <test-method status="PASS" signature="createcontactwithMobile()[pri:0, instance:com.comcast.contactlist.CreateContactTest@28d25987]" name="createcontactwithMobile" duration-ms="4" started-at="2021-03-11T10:25:24Z" finished-at="2021-03-11T10:25:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createcontactwithMobile -->
+      </class> <!-- com.comcast.contactlist.CreateContactTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
